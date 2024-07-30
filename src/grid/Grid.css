@@ -1,0 +1,17 @@
+.grid {
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    gap: 10px;
+}
+.turn {
+    font-size: 26px;
+    font-weight: bold;
+    font-style: italic;
+}
+button {
+    padding: 12px 20px;
+    background-color: darksalmon;
+    color: #000;
+    cursor: pointer;
+    border-radius: 20px;
+}
